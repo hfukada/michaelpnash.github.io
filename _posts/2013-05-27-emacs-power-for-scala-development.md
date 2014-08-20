@@ -48,7 +48,7 @@ My favorite at the moment is dirtree, which gives me a simple tree view of selec
 On the right is a screenshot of Dirtree, with a Scala file (using Ensime and Scala mode) open in the other buffer.
 
 <div id="attachment_1962" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://jglobal.com/wp-content/uploads/2013/05/dirtree.jpg"><img class="size-medium wp-image-1962" alt="dirtree 300x162 Emacs Power for Scala Development: Introduction" src="http://jglobal.com/wp-content/uploads/2013/05/dirtree-300x162.jpg" width="300" height="162" title="Emacs Power for Scala Development: Introduction" /></a> <p class="wp-caption-text">
+  <a href="/wp-content/uploads/2013/05/dirtree.jpg"><img class="size-medium wp-image-1962" alt="dirtree 300x162 Emacs Power for Scala Development: Introduction" src="http://jglobal.com/wp-content/uploads/2013/05/dirtree-300x162.jpg" width="300" height="162" title="Emacs Power for Scala Development: Introduction" /></a> <p class="wp-caption-text">
     A screenshot of Dirtree in Emacs with Scala Mode and Ensime
   </p>
 </div>
@@ -56,7 +56,7 @@ On the right is a screenshot of Dirtree, with a Scala file (using Ensime and Sca
 You can see at the bottom of the screen that I&#8217;m on the master branch for my git repo, and that Ensime is aware I&#8217;m editing a Scala file. If any lines have an error, I see them immediately. For example, kill an import statement, and the resulting error is highlighted (and the error itself, an unknown type, shown in the minibuffer at the bottom of the screen):
 
 <div id="attachment_1964" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://jglobal.com/wp-content/uploads/2013/05/witherror.jpg"><img class="size-medium wp-image-1964" alt="witherror 300x162 Emacs Power for Scala Development: Introduction" src="http://jglobal.com/wp-content/uploads/2013/05/witherror-300x162.jpg" width="300" height="162" title="Emacs Power for Scala Development: Introduction" /></a> <p class="wp-caption-text">
+  <a href="/wp-content/uploads/2013/05/witherror.jpg"><img class="size-medium wp-image-1964" alt="witherror 300x162 Emacs Power for Scala Development: Introduction" src="/wp-content/uploads/2013/05/witherror-300x162.jpg" width="300" height="162" title="Emacs Power for Scala Development: Introduction" /></a> <p class="wp-caption-text">
     An error highlighted in Ensime after deleting an import
   </p>
 </div>
@@ -66,7 +66,7 @@ Then I can hit C-c C-r t (this is easier than it looks, I just hold down Control
 &nbsp;
 
 <div id="attachment_1965" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://jglobal.com/wp-content/uploads/2013/05/importpopup.jpg"><img class="size-medium wp-image-1965" alt="importpopup 300x162 Emacs Power for Scala Development: Introduction" src="http://jglobal.com/wp-content/uploads/2013/05/importpopup-300x162.jpg" width="300" height="162" title="Emacs Power for Scala Development: Introduction" /></a> <p class="wp-caption-text">
+  <a href="/wp-content/uploads/2013/05/importpopup.jpg"><img class="size-medium wp-image-1965" alt="importpopup 300x162 Emacs Power for Scala Development: Introduction" src="/wp-content/uploads/2013/05/importpopup-300x162.jpg" width="300" height="162" title="Emacs Power for Scala Development: Introduction" /></a> <p class="wp-caption-text">
     Import popup in Ensime in Emacs for Scala
   </p>
 </div>
@@ -101,7 +101,7 @@ In the meantime, here&#8217;s a short video showing me correcting an error in Em
   </h4>
   
   <div class="inside">
-    <i>Tired of the Software Development Grind?</i> Know it can be done better? Check out my book: <a href="http://jglobal.com/principles-and-practices">Principles and Practices of Software Craftsmanship</a> or sign up for my <a href="http://jglobal.com/dispatches/">Craftsmanship Dispatches</a> newsletter.
+    <i>Tired of the Software Development Grind?</i> Know it can be done better? Check out my book: <a href="/principles-and-practices">Principles and Practices of Software Craftsmanship</a> or sign up for my <a href="/dispatches/">Craftsmanship Dispatches</a> newsletter.
   </div>
 </div>
 
