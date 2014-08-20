@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Software Craftsmanship Applied
+title: 
 tagline: 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-
-The theme should reference these variables whenever needed.
-    
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
 
 
 <ul class="posts">
