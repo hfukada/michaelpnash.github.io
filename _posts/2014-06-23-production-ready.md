@@ -8,7 +8,7 @@ categories:
   - Software Craftsmanship
 ---
 I recently had a question asked of me, and I realized the answer to it is not as straightforward as I might have thought.
-{{ /wp-content/uploads/2013/05/Anonymous_work_in_progress-e1403485244746.png }}
+![Is it production-ready?](/wp-content/uploads/2013/05/Anonymous_work_in_progress-e1403485244746.png)
 
 The question was &#8220;how should we determine if this software system is production-ready?&#8221;.
 

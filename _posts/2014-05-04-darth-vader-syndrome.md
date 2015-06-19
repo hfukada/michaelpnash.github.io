@@ -6,6 +6,7 @@ permalink: /darth-vader-syndrome/
 categories:
   - Software Craftsmanship
 ---
+![](/wp-content/uploads/2014/05/jedi.png)
 I recently found a great article by Peter Welch (I think) entitled &#8220;Programming Sucks&#8221;. You might be able to <a href"http://stilldrinking.org/" target="_new">find it here</a>.
 
 I agree with most of what it has to say, unfortunately. It&#8217;s unfortunate because basically it says our industry is pretty screwed up, and not really get much better.
