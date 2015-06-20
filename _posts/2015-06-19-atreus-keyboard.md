@@ -55,11 +55,11 @@ After that, each of the switches has to be soldered into position, one at a time
 Then the firmware is sent to the keyboard controller via a special app, and you can start testing. I was fortunate, I only had one
 minor flaw, a cold solder joint, readily fixed.
 
-Putting on the keycaps...
+Putting on the switches...
 
 <img src="/assets/20150118_164817.jpg" alt="Putting on the Keycaps" height="300px"/>
 
-All the keycaps on. The case of the keyboard is made up of layers of wood - that's right, wood - which you
+All the switches soldered on. The case of the keyboard is made up of layers of wood - that's right, wood - which you
 finish beforehand then assemble onto the logic boards and switches.
 
 <img src="/assets/20150118_172855.jpg" alt="All the Keycaps On" height="300px"/>
