@@ -14,7 +14,7 @@ Lately I've been enjoying my Atreus, which I talked about in a <a href="http://m
 
 # Keyboardio
 
-My latest interest is the (Keyboardio Model 1)[http://keyboard.io], which is still an active Kickstarter.
+My latest interest is the <a href="http://keyboard.io">Keyboardio Model 1</a>, which is still an active Kickstarter.
 
 I'd had my eye on it for some time, as it combined many of the traits of some of the best keyboards I have. It uses Mathias switches, like the Mathias Laptop Pro I use as my everyday office keyboard, but with an ergonomic layout reminiscient of the InfoGrip BAT Keyboard. It also sports a wooden case, much like my Atreus, and is split into two halves, like the Kinesis Freestyle.
 
