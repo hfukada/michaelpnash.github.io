@@ -9,7 +9,7 @@ categories:
 ---
 In a previous post I have admitted my keyboard addiction. I go through keyboards at a ridiculous pace, in a quest for the perfect piece of typing technology.
 
-Lately I've been enjoying my Atreus, which I taled about in a !(previous post)[http://michaelpnash.github.io/atreus-keyboard/].
+Lately I've been enjoying my Atreus, which I talked about in a <a href="http://michaelpnash.github.io/atreus-keyboard/">previous post</a>.
 .
 
 # Keyboardio
