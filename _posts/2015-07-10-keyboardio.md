@@ -24,14 +24,14 @@ By sheer coincidence, I was in Vancouver to see a client at the same time that t
 
 Some of the keyboards at the showing, along with a few of the vistors.
 
-<img src="/assets/keyboardio/one.jpg" height="300px"/>
+<a href="/assets/keyboardio/one.jpg"><img src="/assets/keyboardio/one.jpg" height="300px"/></a>
 
 Some keyboards in use, along with one of the co-creators looking on in the background...
 
-<img src="/assets/keyboardio/two.jpg" height="300px"/>
+<a href="/assets/keyboardio/two.jpg"><img src="/assets/keyboardio/two.jpg" height="300px"/></a>
 
 This was a model 01 with the quiet Mathias switches.
-<img src="/assets/keyboardio/20150710_185751.jpg" height="300px"/>
+<a href="/assets/keyboardio/three.jpg"><img src="/assets/keyboardio/three.jpg" height="300px"/></a>
 
 One just like this will be mine some good day in the future. A model 01, with the Mathias clicky switches.
 <img src="/assets/keyboardio/20150710_190440.jpg" height="300px"/>
@@ -76,6 +76,8 @@ The typical F and J keys have the raised dot to let your fingers find them nicel
 Even the function key, under the broad part of the thumb, seemed intuitive in a few seconds - I suspect it would not take long to get used to the key layout on this keyboard.
 
 Even though I was only able to spend 45 minutes or so admiring the model 01, it was well worth it, and I look forward to my very own instance of this impressive keyboard arriving when it's ready.
+
+I discovered I had made *one* error in backing Keyboardio, which I was able to fix this morning: I only ordered one :) Now I have two on the way - one for at home, one for the office.
 
 Congratulations to the Keyboardio team, that's quite a piece of hardware you've got there!
 
