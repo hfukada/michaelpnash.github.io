@@ -9,7 +9,7 @@ categories:
 ---
 In a previous post I have admitted my keyboard addiction. I go through keyboards at a ridiculous pace, in a quest for the perfect piece of typing technology.
 
-Lately I've been enjoying my Atreus, which I taled about in a (previous post)[http://michaelpnash.github.io/atreus-keyboard/].
+Lately I've been enjoying my Atreus, which I taled about in a !(previous post)[http://michaelpnash.github.io/atreus-keyboard/].
 .
 
 # Keyboardio
@@ -24,11 +24,11 @@ By sheer coincidence, I was in Vancouver to see a client at the same time that t
 
 Some of the keyboards at the showing, along with a few of the vistors.
 
-<img src="/assets/keyboardio/20150710_185731.jpg" height="300px"/>
+<img src="/assets/keyboardio/one.jpg" height="300px"/>
 
 Some keyboards in use, along with one of the co-creators looking on in the background...
 
-<img src="/assets/keyboardio/20150710_185744.jpg" height="300px"/>
+<img src="/assets/keyboardio/two.jpg" height="300px"/>
 
 This was a model 01 with the quiet Mathias switches.
 <img src="/assets/keyboardio/20150710_185751.jpg" height="300px"/>
