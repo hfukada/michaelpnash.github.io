@@ -34,7 +34,7 @@ Especially in functional programming, using lambdas can allow us to create highl
 Lambdas in Scala are pretty simple in syntax: they are defined by their function signature. Lets look at this in the Scala REPL:
 
 {% highlight scala %}
-scala> (l: Long) =< l * l
+scala> (l: Long) => l * l
 res0: Long =&gt; Long = &lt;function1&gt;
 {% endhighlight %}
 
